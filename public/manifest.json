@@ -1,0 +1,40 @@
+{
+  "name": "instagram pwa",
+  "short_name": "pwa gram",
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0A0082",
+  "description": "insta pwa created with love.",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/src/images/icons/app-icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/src/images/icons/app-icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/src/images/icons/app-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/src/images/icons/app-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
